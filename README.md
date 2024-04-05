@@ -34,7 +34,7 @@ In Practical Project 5, the task at hand was to reflect upon and articulate a pr
 
 Both PyTorch and TensorFlow displayed robust capabilities, and familiarizing oneself with either could be advantageous due to their extensive use in the industry. They each have comprehensive documentation and an array of courses available, which supports a deep dive into their functionalities.
 
-Fast.ai, while equally powerful, seemed to have a narrower range of learning resources. I found it challenging to locate a resource that provided a succinct yet comprehensive overview of the framework. Moreover, the .lr_find() function, a feature designed to aid in the selection of an optimal learning rate, unfortunately led to confusion in my case. Each execution suggested an increment in the learning rate, which consistently resulted in overfitting and the subsequent degradation of the model's performance.
+Fast.ai, while equally powerful, seemed to have a narrower range of learning resources. I found it challenging to locate a resource that provided a succinct yet comprehensive overview of the framework. Moreover, the .lr_find() function, a feature designed to aid in the selection of an optimal learning rate, unfortunately led to confusion in my case. Each execution suggested an increment in the learning rate, which consistently resulted in underfitting and the subsequent degradation of the model's performance.
 
 The journey through these frameworks has been enlightening, highlighting that the choice of a framework can often be dictated by the project requirements and personal familiarity. In the end, proficiency in any of these tools is a valuable asset in the field of data science and machine learning.
 
